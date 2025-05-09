@@ -120,6 +120,9 @@ The available options are:
         Usage: -v
 ```
 
+
+TestUpdate
+
 ## Default Collection Paths
 
 CyLR tool collects forensic artifacts from hosts with NTFS file systems
